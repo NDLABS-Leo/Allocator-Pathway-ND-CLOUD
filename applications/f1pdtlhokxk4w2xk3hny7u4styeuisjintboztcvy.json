@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ID": "f1pdtlhokxk4w2xk3hny7u4styeuisjintboztcvy",
+  "Issue Number": "11",
+  "Client": {
+    "Name": "CaptaiNLP",
+    "Region": "China",
+    "Industry": "Information, Media & Telecommunications",
+    "Website": "www.aoligei-Fighting.com",
+    "Social Media": "None",
+    "Social Media Type": "WeChat",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Project Id": "002",
+    "Brief history of your project and organization": "Zhejiang AOLIGEI Culture Media Co., Ltd is a cultural media platform focused on the development of artists. With accurate market positioning, we’ve won a certain market share out of many competitors. Engaged in the filed of the image promotion of internet influencers, short video planning, filming training consulting, etc., not only do we have a large number of cultural media resources, but also create their own flow of IP with the professional operation teams, helping them achieve their own dreams!\r\nOur company currently has more than 100 artists under contract, and our current business has close ties with film and television companies, social media platforms, and e-commerce.\r\n1、Cooperating with some film and TV companies to shoot TV series and advertisement promotion works.\r\n2、Cooperating with some social media platforms to publish videos, pictures and advertisements of our contracted artists.\r\n3、We also do e-commerce by selling a full range of products through live-stream media.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
+    "Describe the data being stored onto Filecoin": "The data stored on Filecoin are our business videos, commercials, image and client’s video materials.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "We currently store data on our own server hard drives for backup. In the future, we will mainly provide data to storage service providers through network transmission and mailing hard drives.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "Douying：\r\nhttps://www.douyin.com/user/MS4wLjABAAAAqHIH7OBGnA77xHvRJNYaNXRS5MAm-2lDxNIk3dJSHtU?modal_id=7117310005006568740\r\nhttps://www.douyin.com/user/MS4wLjABAAAAqHIH7OBGnA77xHvRJNYaNXRS5MAm-2lDxNIk3dJSHtU?modal_id=7116789513619361032\r\nhttps://www.douyin.com/user/MS4wLjABAAAAqHIH7OBGnA77xHvRJNYaNXRS5MAm-2lDxNIk3dJSHtU?modal_id=7118665932796431647\r\nhttps://www.douyin.com/user/MS4wLjABAAAAAD-lSehi3CNwG1I8bTSfQUZ-Ak2j9Rxdulx6TZNFsAc?modal_id=7026563322648579362\r\nhttps://www.douyin.com/user/MS4wLjABAAAAAD-lSehi3CNwG1I8bTSfQUZ-Ak2j9Rxdulx6TZNFsAc?modal_id=7062130813122481423\r\nhttps://www.douyin.com/user/MS4wLjABAAAA5Zr5L2owYCE9QuAWtxzbYfBc2Nhj0b4Pf8FBk-xyUu4?modal_id=6651515890045160711\r\nhttps://www.douyin.com/user/MS4wLjABAAAA5Zr5L2owYCE9QuAWtxzbYfBc2Nhj0b4Pf8FBk-xyUu4?modal_id=7134982490384616743\r\nhttps://www.douyin.com/user/MS4wLjABAAAA5Zr5L2owYCE9QuAWtxzbYfBc2Nhj0b4Pf8FBk-xyUu4?modal_id=7135387938128497958\r\nhttps://www.douyin.com/user/MS4wLjABAAAA5Zr5L2owYCE9QuAWtxzbYfBc2Nhj0b4Pf8FBk-xyUu4?modal_id=7136491982939049227\r\nhttps://www.douyin.com/user/MS4wLjABAAAA_UAtaMCagWq8N1RPE-KCyW9VIyt6wwhhJ3J4l7pI-tXCiK6I1TQvV1Adv9PkQj2a?modal_id=6837725081230200071",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1.5 to 2 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, IPFS",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02211572 | Chengdu, Sichuan | MicroAnt\r\nf02814600 | Chengdu, Sichuan| BigMax\r\nf02226869 | Nanchang, Jiangxi | LuckyMine\r\nf02274508 | Hong Kong | H&W\r\nf02329119 | Hangzhou, Zhejiang | Cryptomage\r\nf02837293 | Seoul, Seoul | FiveByte\r\nf01159754 | Singapore, Singapore | VITACapital\r\nf01852363 | Singapore, Singapore | HectorLi\r\nf02321504 | Los Angeles, California | ipollo\r\nf02320312 | Los Angeles, California | R1\r\nf02327534 | Los Angeles, California | ipollo\r\nf02322031 | Los Angeles, California | ipollo\r\nf02320270 | Los Angeles, California | R1\r\nf01853077 | Singapore, Singapore | Alpha100",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "10PiB",
+    "Single Size Dataset": "1PiB",
+    "Replicas": 10,
+    "Weekly Allocation": "1"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-04-03 07:33:26.071726199 UTC",
+    "Validated By": "NDLABS-Leo",
+    "Active": true,
+    "Updated At": "2024-04-03 07:36:52.868228145 UTC",
+    "Active Request ID": "e459a93f-b373-4ba5-86ae-5d467c9da7b3",
+    "On Chain Address": "f1pdtlhokxk4w2xk3hny7u4styeuisjintboztcvy",
+    "Multisig Address": "false"
+  },
+  "Allocation Requests": [
+    {
+      "ID": "e459a93f-b373-4ba5-86ae-5d467c9da7b3",
+      "Request Type": "First",
+      "Created At": "2024-04-03 07:33:26.071733759 UTC",
+      "Updated At": "2024-04-03 07:33:26.071735367 UTC",
+      "Active": false,
+      "Allocation Amount": "500TiB",
+      "Signers": [
+        {
+          "Github Username": "NDLABS-Leo",
+          "Signing Address": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
+          "Created At": "2024-04-03 07:36:50.209000000 UTC",
+          "Message CID": "bafy2bzacedgjh6zl2cymemhtjiacgn7r3sivjrevrjlp3kzzrderekf3o3hoa"
+        }
+      ]
+    }
+  ]
+}
