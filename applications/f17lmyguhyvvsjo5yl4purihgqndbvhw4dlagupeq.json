@@ -33,7 +33,7 @@
     "Total Requested Amount": "10",
     "Single Size Dataset": "1",
     "Replicas": 10,
-    "Weekly Allocation": "1"
+    "Weekly Allocation": "0.5"
   },
   "Lifecycle": {
     "State": "Submitted",
