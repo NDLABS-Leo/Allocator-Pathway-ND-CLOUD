@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "ID": "f1z55mvibk3ncncqrxu6xxm6g53trhcakhn4cvcsy",
+  "Issue Number": "13",
+  "Client": {
+    "Name": "Hepta",
+    "Region": "Korea, Democratic People's Republic of",
+    "Industry": "Education & Training",
+    "Website": "https://opendatalab.org.cn/home",
+    "Social Media": "",
+    "Social Media Type": "Slack",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Project Id": "002",
+    "Brief history of your project and organization": "Hepta Labs joined Filecoin as an SP starting in 2021. In order to comply with Filecoin's plan to store the most important data of humanity, we transformed our business. We have gone through the preparatory phase and contacted nearly 20 SPs. Most expressed willingness to collaborate on our important data storage plan.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Dataset content includes: automatic driving, openmmlab, classic benchmark, smart remote sensing, smart medical care, virtual reality, multimodality, openxdlab, smart education raw data and trained data sets will be backed up to 10 copies.\r\nThe types of data sets include: text, image, video, audio, etc.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "I will be preparing the data via the hard drives that are now in our server room, one way of sending the drives by mail. Alternatively we can use the louts tool to process the data for transfer.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://drive.google.com/file/d/1iiHAbqgDlveO3i9TfcZoJwDcpClZM1fB/view?usp=share_link",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3), HTTP or FTP server, IPFS, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02023435  - HK\r\nf02948413 - sichuang\r\nf02836485 - Singaporean\r\nf02320270 - usa\r\nf02864389 - china",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5PiB",
+    "Single Size Dataset": "500TiB",
+    "Replicas": 10,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-04-17 06:48:44.370691817 UTC",
+    "Validated By": "NDLABS-Leo",
+    "Active": true,
+    "Updated At": "2024-04-18 05:35:51.974594622 UTC",
+    "Active Request ID": "2731ec7c-e4cb-42b6-8485-3b498d1a9641",
+    "On Chain Address": "f1z55mvibk3ncncqrxu6xxm6g53trhcakhn4cvcsy",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "2731ec7c-e4cb-42b6-8485-3b498d1a9641",
+      "Request Type": "First",
+      "Created At": "2024-04-17 06:48:44.370697860 UTC",
+      "Updated At": "2024-04-17 06:48:44.370698540 UTC",
+      "Active": false,
+      "Allocation Amount": "50TiB",
+      "Signers": [
+        {
+          "Github Username": "NDLABS-Leo",
+          "Signing Address": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
+          "Created At": "2024-04-18 05:35:49.306000000 UTC",
+          "Message CID": "bafy2bzacecz2vgve2jb35qazax35wdqnvfebfpsqosl77d6nptfot7etvnija"
+        }
+      ]
+    }
+  ]
+}
