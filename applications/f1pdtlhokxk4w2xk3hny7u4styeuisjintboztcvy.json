@@ -33,7 +33,7 @@
     "Total Requested Amount": "10PiB",
     "Single Size Dataset": "1PiB",
     "Replicas": 10,
-    "Weekly Allocation": "1"
+    "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
     "State": "Granted",
@@ -43,7 +43,8 @@
     "Updated At": "2024-04-03 07:36:52.868228145 UTC",
     "Active Request ID": "e459a93f-b373-4ba5-86ae-5d467c9da7b3",
     "On Chain Address": "f1pdtlhokxk4w2xk3hny7u4styeuisjintboztcvy",
-    "Multisig Address": "false"
+    "Multisig Address": "false",
+    "edited": true
   },
   "Allocation Requests": [
     {
