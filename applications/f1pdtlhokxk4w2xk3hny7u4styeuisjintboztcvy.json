@@ -36,12 +36,12 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ReadyToSign",
     "Validated At": "2024-04-03 07:33:26.071726199 UTC",
     "Validated By": "NDLABS-Leo",
     "Active": true,
-    "Updated At": "2024-04-26 08:35:40.544646738 UTC",
-    "Active Request ID": "6368851a-7266-43f2-8fac-b8705dd0aa11",
+    "Updated At": "2024-04-26 11:30:13.694261041 UTC",
+    "Active Request ID": "f4cba891-edca-4ef7-b0b8-3cccb51f9b03",
     "On Chain Address": "f1pdtlhokxk4w2xk3hny7u4styeuisjintboztcvy",
     "Multisig Address": "false",
     "edited": false
@@ -78,6 +78,15 @@
           "Message CID": "bafy2bzaced37kvses3nmpxhoieuwu5ma6lam6mq5xkm7375x7j75nqirf4tts"
         }
       ]
+    },
+    {
+      "ID": "f4cba891-edca-4ef7-b0b8-3cccb51f9b03",
+      "Request Type": "Refill",
+      "Created At": "2024-04-26 11:30:13.694269545 UTC",
+      "Updated At": "2024-04-26 11:30:13.694270866 UTC",
+      "Active": true,
+      "Allocation Amount": "1PiB",
+      "Signers": []
     }
   ]
 }
