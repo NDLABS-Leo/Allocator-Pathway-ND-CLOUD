@@ -12,7 +12,6 @@
     "Role": "Dataset Owner"
   },
   "Project": {
-    "Project Id": "003",
     "Brief history of your project and organization": "AINN Layer2 Description： \r\n \r\n- Narrative Innovation: The first Bitcoin Layer 2 aimed at supporting the mass adoption of AI applications, with the goal of advancing the deep integration of Web3 and AI, benchmarking Merlin & Bittensor. \r\n \r\n- Community Support: An ecosystem project strongly supported by the AINN community, currently one of the first key supported inscription by the Binance web3 wallet, with a market value exceeding $50 million. AINN Layer2 will use AINN as gas consumption and the issued assets as governance tokens, with AINN's strong community and ecological support. \r\n \r\n- Technology Leadership: Bitcoin EVM-compatible Layer2 with multiple AI subnets to lay a foundation for bridging AI models, data, and algorithms. \r\n \r\n- Strong Background: The team consists of graduates from top American universities, chief scientists from startup financed by top venture capital such as Sequoia, and also get support from some of the largest Bitcoin holders. The initial phase targets a TVL of $1 billion. \r\n \r\n\r\n- Project Stage: Currently in the social point fission stage, with over 70,000 social accounts and Bitcoin wallet addresses bound. The testnet will be launched at the beginning of March for staking, and the mainnet will be launched in mid-March.",
     "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
     "Describe the data being stored onto Filecoin": "Transaction data on the chain, as well as our AI model, and related AI Dapp application data",
@@ -36,11 +35,11 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-04-17 09:36:18.090284091 UTC",
     "Validated By": "NDLABS-Leo",
     "Active": true,
-    "Updated At": "2024-05-09 08:00:06.187820307 UTC",
+    "Updated At": "2024-07-05 07:51:54.600461012 UTC",
     "Active Request ID": "0f3d2e80-96f2-47f7-b6ec-1efde5e2cc80",
     "On Chain Address": "f1ccqyhokaxxgdsdh7oayfxxzminsf6gyu6duodaa",
     "Multisig Address": "false",
@@ -100,9 +99,16 @@
       "Request Type": "Refill",
       "Created At": "2024-05-09 08:00:06.187830260 UTC",
       "Updated At": "2024-05-09 08:00:06.187831292 UTC",
-      "Active": true,
-      "Allocation Amount": "2PiB",
-      "Signers": []
+      "Active": false,
+      "Allocation Amount": "1PiB",
+      "Signers": [
+        {
+          "Github Username": "NDLABS-Leo",
+          "Signing Address": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
+          "Created At": "2024-07-05 07:51:51.895000000 UTC",
+          "Message CID": "bafy2bzacebivu4ewpz5ueyhnjxttnhtu5th7mfbm2dui2csfjdis7w352odkk"
+        }
+      ]
     }
   ]
 }
