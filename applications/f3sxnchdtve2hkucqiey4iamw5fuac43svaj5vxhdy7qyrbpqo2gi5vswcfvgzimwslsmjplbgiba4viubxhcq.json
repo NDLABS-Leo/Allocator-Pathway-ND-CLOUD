@@ -36,11 +36,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2024-09-27 07:48:20.483413633 UTC",
+    "Validated At": "2024-10-08 07:47:07.360122414 UTC",
     "Validated By": "NDLABS-Leo",
     "Active": true,
-    "Updated At": "2024-09-27 07:49:36.633274427 UTC",
-    "Active Request ID": "1ea5eaa8-d68a-4bde-81fa-6d10960e2d21",
+    "Updated At": "2024-10-08 10:19:34.287398219 UTC",
+    "Active Request ID": "23ce4d42-bb18-4623-8676-76ca594bb39b",
     "On Chain Address": "f3sxnchdtve2hkucqiey4iamw5fuac43svaj5vxhdy7qyrbpqo2gi5vswcfvgzimwslsmjplbgiba4viubxhcq",
     "Multisig Address": "true",
     "edited": false
@@ -59,6 +59,22 @@
           "Signing Address": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
           "Created At": "2024-09-27 07:49:29.865000000 UTC",
           "Message CID": "bafy2bzaceb3j52vrclwerd3xy6bkjeqchbwsq44ye2py5jbmvpsbx7ch6yyko"
+        }
+      ]
+    },
+    {
+      "ID": "23ce4d42-bb18-4623-8676-76ca594bb39b",
+      "Request Type": "Refill",
+      "Created At": "2024-10-08 07:47:07.360130012 UTC",
+      "Updated At": "2024-10-08 07:47:07.360130870 UTC",
+      "Active": false,
+      "Allocation Amount": "500TiB",
+      "Signers": [
+        {
+          "Github Username": "NDLABS-Leo",
+          "Signing Address": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
+          "Created At": "2024-10-08 10:19:34.662000000 UTC",
+          "Message CID": "bafy2bzacead75azqg2rlrzkjhoj7m7sak6wiisgsd6dwf4k75vgy47xsj2y6c"
         }
       ]
     }
