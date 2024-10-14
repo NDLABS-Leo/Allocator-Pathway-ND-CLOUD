@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f15xemmwpi6wz7bpbf6whc6b74siq2zuiyyznufxa",
+  "Issue Number": "35",
+  "Client": {
+    "Name": "VICTORBTC",
+    "Region": "United Kingdom",
+    "Industry": "Education & Training",
+    "Website": "https://x.com/AnnieBu32202953",
+    "Social Media": "AnnieBu32202953",
+    "Social Media Type": "Twitter",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "VICTORBTC Films is a film company focused on producing premium content, rooted in content creation with strong ties to the internet. It operates on an innovative partnership model, with elite teams working in close collaboration and a forward-looking approach to systematic operations. The company is dedicated to the investment, production, marketing, distribution, and derivation of super-series, films, and online shows, covering the entire entertainment value chain. With extensive experience in film production and resource integration within the industry, VICTORBTC Films specializes in creating “high-investment, high-quality, and high-market-impact” premium content. Its core services include content development, filming and production, publicity and distribution, and entertainment marketing.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "video associated with the business",
+    "Where was the data currently stored in this dataset sourced from": "Google Cloud",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://drive.google.com/file/d/1nkoRjyKaWRn73XyNHg_e7Tlj-Ux-BhdO/view?usp=sharing",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, Africa, North America, South America, Europe, Australia (continent), Antarctica",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3), HTTP or FTP server, IPFS, Shipping hard drives, Lotus built-in data transfer, Venus built-in data transfer",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02825282 HK\r\nf02826588 SZ\r\nf02827996 SZ\r\nf02980903 KR",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "4PiB",
+    "Single Size Dataset": "500TiB",
+    "Replicas": 8,
+    "Weekly Allocation": "800TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-10-14 09:33:50.554860838 UTC",
+    "Validated By": "NDLABS-Leo",
+    "Active": true,
+    "Updated At": "2024-10-14 09:36:03.513491668 UTC",
+    "Active Request ID": "73b5871e-be09-439c-9cce-f0eff4d24a1a",
+    "On Chain Address": "f15xemmwpi6wz7bpbf6whc6b74siq2zuiyyznufxa",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "73b5871e-be09-439c-9cce-f0eff4d24a1a",
+      "Request Type": "First",
+      "Created At": "2024-10-14 09:33:50.554871242 UTC",
+      "Updated At": "2024-10-14 09:33:50.554872158 UTC",
+      "Active": false,
+      "Allocation Amount": "50TiB",
+      "Signers": [
+        {
+          "Github Username": "NDLABS-Leo",
+          "Signing Address": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
+          "Created At": "2024-10-14 09:36:00.612000000 UTC",
+          "Message CID": "bafy2bzacebxfx25lyamhw3aeezie3nwmuvcypjl3vsckrp3gc35z6qwu42lke"
+        }
+      ]
+    }
+  ]
+}
