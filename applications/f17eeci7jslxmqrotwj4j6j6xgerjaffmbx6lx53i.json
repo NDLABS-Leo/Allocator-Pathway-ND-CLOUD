@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f17eeci7jslxmqrotwj4j6j6xgerjaffmbx6lx53i",
+  "Issue Number": "39",
+  "Client": {
+    "Name": "Commoncrawl",
+    "Region": "United States",
+    "Industry": "Life Science / Healthcare",
+    "Website": "https://commoncrawl.org/",
+    "Social Media": "https://commoncrawl.org/",
+    "Social Media Type": "Slack",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "FileTech focuses on providing excellent data storage solutions. We have a passionate and knowledgeable team with extensive experience and expertise in the field of data storage. Whether it's data storage, data management, data recovery, or data center design and construction, we possess abundant technical capabilities and solutions.\r\n\r\nAt FileTech, we understand the importance of data in modern businesses. We not only offer high-performance data storage devices and solutions, but also provide comprehensive data management tools to help clients efficiently organize, classify, and protect their data assets.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Common Crawl maintains a free, open repository of web crawl data that can be used by anyone.\r\nPrimary training corpus in every LLM.82% of raw tokens used to train GPT-3.Free and open corpus since 2007.Cited in over 8000 research papers.3–5 billion new pages added each month.",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "357-resule \r\n2020-08-25 17:22:47  398.4 MiB hrrr_v2.20160823/conus/hrrr.t09z.wrfprsf13.grib2\r\n2020-08-25 17:22:52  396.0 MiB hrrr_v2.20160823/conus/hrrr.t09z.wrfprsf14.grib2\r\n2020-08-25 17:22:52  394.6 MiB hrrr_v2.20160823/conus/hrrr.t09z.wrfprsf15.grib2\r\n2020-08-25 17:22:52  390.2 MiB hrrr_v2.20160823/conus/hrrr.t09z.wrfprsf16.grib2\r\n2020-08-25 17:23:08  387.1 MiB hrrr_v2.20160823/conus/hrrr.t09z.wrfprsf17.grib2\r\n2020-08-25 17:23:05  384.8 MiB hrrr_v2.20160823/conus/hrrr.t09z.wrfprsf18.grib2\r\n2021-09-28 03:48:22   31.6 KiB index.html\r\n\r\nTotal Objects: 43282174\r\n   Total Size: 2.1 PiB",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1.5 to 2 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3), IPFS",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03215853 ｜ United States\r\nf03218576 ｜ Portland, Oregon, United States\r\nf03157910 ｜ China\r\nf03157905 ｜ China\r\nf03220176 ｜ Hong Kong\r\nf03220172 ｜ Singapore",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5PiB",
+    "Single Size Dataset": "512TiB",
+    "Replicas": 10,
+    "Weekly Allocation": "300TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-10-21 04:07:03.837779357 UTC",
+    "Validated By": "NDLABS-Leo",
+    "Active": true,
+    "Updated At": "2024-10-21 04:09:32.730389644 UTC",
+    "Active Request ID": "00e6c631-9a0a-473c-80bf-755c8bdabca0",
+    "On Chain Address": "f17eeci7jslxmqrotwj4j6j6xgerjaffmbx6lx53i",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "00e6c631-9a0a-473c-80bf-755c8bdabca0",
+      "Request Type": "First",
+      "Created At": "2024-10-21 04:07:03.837785575 UTC",
+      "Updated At": "2024-10-21 04:07:03.837786633 UTC",
+      "Active": false,
+      "Allocation Amount": "50TiB",
+      "Signers": [
+        {
+          "Github Username": "NDLABS-Leo",
+          "Signing Address": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
+          "Created At": "2024-10-21 04:09:31.834000000 UTC",
+          "Message CID": "bafy2bzacebaqgf3pa6tgp7c4hahjy2ck6mrefpm6kfgtnsrt6uewjjtx7vj3c"
+        }
+      ]
+    }
+  ]
+}
