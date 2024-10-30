@@ -35,15 +35,25 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2024-10-30 07:36:25.288322658 UTC",
+    "Validated By": "NDLABS-Leo",
     "Active": true,
-    "Updated At": "2024-10-29 09:05:31.707103207 UTC",
-    "Active Request ID": "",
+    "Updated At": "2024-10-30 07:36:25.288327707 UTC",
+    "Active Request ID": "59901f5f-2348-45a8-9a55-02b65e340abd",
     "On Chain Address": "f1ix2cf2d5pmdiw3of7eou34ftu4btklqng7eo45q",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "59901f5f-2348-45a8-9a55-02b65e340abd",
+      "Request Type": "First",
+      "Created At": "2024-10-30 07:36:25.288329715 UTC",
+      "Updated At": "2024-10-30 07:36:25.288330828 UTC",
+      "Active": true,
+      "Allocation Amount": "50TiB",
+      "Signers": []
+    }
+  ]
 }
