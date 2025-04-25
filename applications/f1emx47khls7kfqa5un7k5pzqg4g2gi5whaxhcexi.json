@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1emx47khls7kfqa5un7k5pzqg4g2gi5whaxhcexi",
+  "Issue Number": "64",
+  "Client": {
+    "Name": "Hangzhou Lanxin Technology Co., Ltd.",
+    "Region": "China",
+    "Industry": "IT & Technology Services",
+    "Website": "https://www.lanxincn.com/",
+    "Social Media": "https://www.lanxincn.com/",
+    "Social Media Type": "WeChat",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Founded in 2016, BlueCore Technology has rapidly grown into a global leader in the field of new-generation mobile robots (3D visual perception) and a leading provider of overall solutions for smart factories with the mission of \"Let robots understand the world and serve the world!\" The company's core team brings together experts from the Chinese Academy of Sciences, Fudan University, Zhejiang University and well-known domestic robot companies. Through the independently developed core technology LX-MRDVS® (BlueCore Mobile Robot Deep Vision System), robots are given excellent 3D visual perception capabilities, providing safer, more stable and more intelligent production line logistics solutions for the manufacturing industry.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Enterprise product data, 3D visual perception processing data, comprehensive visual solutions",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "We will give access to and download rights to our local data to a storage provider, who will process, encrypt and back up the data to other nodes.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://drive.google.com/drive/folders/1IdJAFjGA4LweevN8gLPXv8wGHeR5txGc?usp=drive_link",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3), HTTP or FTP server",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03509518hk\nf02309036hk\nf03402379sg\nf03253401cn",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "6PiB",
+    "Single Size Dataset": "1.5PiB",
+    "Replicas": 7,
+    "Weekly Allocation": "1.5PiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2025-04-25 07:29:27.779559827 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1emx47khls7kfqa5un7k5pzqg4g2gi5whaxhcexi",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
