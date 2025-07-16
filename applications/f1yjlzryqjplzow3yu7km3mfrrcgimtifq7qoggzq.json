@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1yjlzryqjplzow3yu7km3mfrrcgimtifq7qoggzq",
+  "Issue Number": "73",
+  "Client": {
+    "Name": "AIXI Culture",
+    "Region": "China",
+    "Industry": "Arts & Recreation",
+    "Website": "https://www.aixiwh.com/",
+    "Social Media": "aixiwenhua",
+    "Social Media Type": "WeChat",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "In order to promote the establishment of international exhibition brand institutions in Zhengzhou, on April 28, 2016, Zhengzhou Aixi Culture Communication Co., Ltd. and Pico Far East Group, a Hong Kong listed company (the group was established in Singapore in 1969 and listed in Hong Kong in 1992, stock code: 752, entered the Chinese market in 1980, and has been deeply involved in the domestic market for more than 40 years. Its branches are spread across more than 40 regions and countries around the world. As a world-renowned multinational exhibition listed company), Pico Venue Services Co., Ltd., a wholly-owned subsidiary, established a Sino-foreign joint venture Henan Pico Global Exhibition Services Co., Ltd. (hereinafter referred to as Henan Pico). The company is one of the few Sino-foreign joint ventures involved in the exhibition industry in Henan Province. Its business scope includes: conference and exhibition hosting and undertaking, exhibition hall operation, home field services, booth construction and other exhibition services.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
+    "Describe the data being stored onto Filecoin": "Large-scale business-related materials for videos, documents, photos, designs, and exhibitions",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.aixiwh.com/uploads/allimg/20220406/1-220406103633K7.mp4\nhttps://www.aixiwh.com/uploads/allimg/20220406/1-220406103633457.mp4\nhttps://www.aixiwh.com/uploads/allimg/20220406/1-220406103435U9.mp4\nhttps://www.aixiwh.com/uploads/allimg/20220406/1-220406103443J0.mp4",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02826762\t\thk\nf02827135 \t\thk\nf02827010\t\tCN\nf02825281\t\tCN\nf03610683\t\thk\nf03623232\t\thk\nf03620690\t\tKR\nf03621014\t\tKR\nf03620890\t\tKR",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "7PiB",
+    "Single Size Dataset": "700TiB",
+    "Replicas": 10,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-07-16 09:06:07.450121136 UTC",
+    "Validated By": "NDLABS-Leo",
+    "Active": true,
+    "Updated At": "2025-07-16 09:06:07.450117710 UTC",
+    "Active Request ID": "71df5a6b-848d-4009-87ab-de3428dddcb2",
+    "On Chain Address": "f1yjlzryqjplzow3yu7km3mfrrcgimtifq7qoggzq",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "71df5a6b-848d-4009-87ab-de3428dddcb2",
+      "Request Type": "First",
+      "Created At": "2025-07-16 09:04:33.780142671 UTC",
+      "Updated At": "2025-07-16 09:04:33.780143486 UTC",
+      "Active": false,
+      "Allocation Amount": "549755813888000 B",
+      "Signers": [
+        {
+          "Github Username": "NDLABS-Leo",
+          "Signing Address": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
+          "Created At": "2025-07-16 09:06:10.225000000 UTC",
+          "Message CID": "bafy2bzacea4galjlpapn3o3ylysqvzpjhgqcducvb56gnidy4rxprtjbe225w"
+        }
+      ]
+    }
+  ]
+}
