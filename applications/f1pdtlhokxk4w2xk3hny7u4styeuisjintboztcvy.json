@@ -12,7 +12,6 @@
     "Role": "Dataset Owner"
   },
   "Project": {
-    "Project Id": "002",
     "Brief history of your project and organization": "Zhejiang AOLIGEI Culture Media Co., Ltd is a cultural media platform focused on the development of artists. With accurate market positioning, we’ve won a certain market share out of many competitors. Engaged in the filed of the image promotion of internet influencers, short video planning, filming training consulting, etc., not only do we have a large number of cultural media resources, but also create their own flow of IP with the professional operation teams, helping them achieve their own dreams!\r\nOur company currently has more than 100 artists under contract, and our current business has close ties with film and television companies, social media platforms, and e-commerce.\r\n1、Cooperating with some film and TV companies to shoot TV series and advertisement promotion works.\r\n2、Cooperating with some social media platforms to publish videos, pictures and advertisements of our contracted artists.\r\n3、We also do e-commerce by selling a full range of products through live-stream media.",
     "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
     "Describe the data being stored onto Filecoin": "The data stored on Filecoin are our business videos, commercials, image and client’s video materials.",
@@ -36,12 +35,12 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "Declined",
     "Validated At": "2024-04-03 07:33:26.071726199 UTC",
     "Validated By": "NDLABS-Leo",
-    "Active": true,
-    "Updated At": "2024-04-26 08:35:40.544646738 UTC",
-    "Active Request ID": "6368851a-7266-43f2-8fac-b8705dd0aa11",
+    "Active": false,
+    "Updated At": "2025-07-17 09:02:48.210939605 UTC",
+    "Active Request ID": null,
     "On Chain Address": "f1pdtlhokxk4w2xk3hny7u4styeuisjintboztcvy",
     "Multisig Address": "false",
     "edited": false
