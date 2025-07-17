@@ -35,12 +35,12 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
+    "State": "Declined",
     "Validated At": "",
     "Validated By": "",
-    "Active": true,
-    "Updated At": "2024-03-28 06:35:06.886764148 UTC",
-    "Active Request ID": "",
+    "Active": false,
+    "Updated At": "2025-07-17 08:51:06.621792273 UTC",
+    "Active Request ID": null,
     "On Chain Address": "f1d2op7ndmbevlthyonqntkxsg4a47qgliztvhj4i",
     "Multisig Address": "true",
     "edited": false
