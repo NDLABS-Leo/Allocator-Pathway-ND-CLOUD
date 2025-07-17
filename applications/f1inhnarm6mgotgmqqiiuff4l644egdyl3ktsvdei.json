@@ -23,15 +23,15 @@
     "For how long do you plan to keep this dataset stored on Filecoin": "Permanently",
     "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, South America, Europe",
     "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
-    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03226666  HK\r\nf02819999  US\r\nf03166677 Guangzhou\r\nf03166688 Guangzhou",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f03226666  HK\nf02819999  US\nf03166677 Guangzhou\nf03166688 Guangzhou\nf03175111 HK\nf03175168 japan\nf03299999 HK\nf02822088 Thailand\nf03377777 Thailand",
     "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
   },
   "Datacap": {
     "Type": "ldn-v3",
     "Data Type": "Slingshot",
     "Total Requested Amount": "5PiB",
-    "Single Size Dataset": "1.2PiB",
-    "Replicas": 5,
+    "Single Size Dataset": "512TiB",
+    "Replicas": 10,
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
