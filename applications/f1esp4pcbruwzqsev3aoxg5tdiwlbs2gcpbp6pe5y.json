@@ -35,7 +35,7 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ChangesRequested",
     "Validated At": "2025-07-23 07:33:07.243087358 UTC",
     "Validated By": "NDLABS-Leo",
     "Active": true,
@@ -43,7 +43,7 @@
     "Active Request ID": "f5404ef4-7aed-4979-a3b2-aee97763c7cc",
     "On Chain Address": "f1esp4pcbruwzqsev3aoxg5tdiwlbs2gcpbp6pe5y",
     "Multisig Address": "false",
-    "edited": true
+    "edited": false
   },
   "Allocation Requests": [
     {
