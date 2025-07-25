@@ -18,7 +18,7 @@
     "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
     "How do you plan to prepare the dataset": "",
     "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.bilibili.com/bangumi/play/ep833657?from_spmid=666.5.banner.2\nhttps://m.ac.qq.com/chapter/index/id/640269/cid/2\nhttps://m.bilibili.com/bangumi/play/ep1524697?spm_id_from=333.337.0.0",
-    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
     "What is the expected retrieval frequency for this data": "Yearly",
     "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
     "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China",
@@ -43,7 +43,7 @@
     "Active Request ID": "f5404ef4-7aed-4979-a3b2-aee97763c7cc",
     "On Chain Address": "f1esp4pcbruwzqsev3aoxg5tdiwlbs2gcpbp6pe5y",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
