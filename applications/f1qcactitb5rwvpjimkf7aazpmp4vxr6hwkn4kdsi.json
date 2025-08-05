@@ -35,12 +35,12 @@
     "Weekly Allocation": "800TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "Declined",
     "Validated At": "2025-03-20 06:38:36.250842866 UTC",
     "Validated By": "NDLABS-Leo",
-    "Active": true,
-    "Updated At": "2025-03-20 06:38:36.250839599 UTC",
-    "Active Request ID": "62f7970e-568e-4d4f-95e1-e9097d18952f",
+    "Active": false,
+    "Updated At": "2025-08-05 08:54:05.278774594 UTC",
+    "Active Request ID": null,
     "On Chain Address": "f1qcactitb5rwvpjimkf7aazpmp4vxr6hwkn4kdsi",
     "Multisig Address": "false",
     "edited": false
