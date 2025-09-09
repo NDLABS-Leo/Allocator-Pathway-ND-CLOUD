@@ -23,7 +23,7 @@
     "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
     "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America",
     "How will you be distributing your data to storage providers": "HTTP or FTP server",
-    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02826762\t\thk\nf02827135 \t\thk\nf02827010\t\tCN\nf02825281\t\tCN\nf03610683\t\thk\nf03623232\t\thk\nf03620690\t\tKR\nf03621014\t\tKR\nf03620890\t\tKR",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02826762\t\thk\nf02827135 \t\thk\nf02827010\t\tCN\nf02825281\t\tCN\nf03610683\t\thk\nf03623232\t\thk\nf03620690\t\tKR\nf01828146               hk",
     "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
   },
   "Datacap": {
@@ -31,7 +31,7 @@
     "Data Type": "Slingshot",
     "Total Requested Amount": "7PiB",
     "Single Size Dataset": "700TiB",
-    "Replicas": 10,
+    "Replicas": 8,
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
@@ -43,7 +43,7 @@
     "Active Request ID": "065c028e-866a-4c59-9fe3-99a13154d6db",
     "On Chain Address": "f1yjlzryqjplzow3yu7km3mfrrcgimtifq7qoggzq",
     "Multisig Address": "false",
-    "edited": false
+    "edited": true
   },
   "Allocation Requests": [
     {
